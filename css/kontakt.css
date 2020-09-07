@@ -23,6 +23,18 @@ header h1 {
     text-align: center;
 }
 
+.footer {
+  position: fixed;
+  left: 230px;
+  bottom: 0px;
+  width: 1650px;
+  height: 100px;
+  background-color: grey;
+  color: ghostwhite;
+  text-align: start;
+  border-radius: 10px;
+}
+
 
 .content {  
     position: absolute;
@@ -70,6 +82,8 @@ textarea {
 
 
 }
+
+
 /* Navigation */
 .sidebar {
     margin-left: 10px;

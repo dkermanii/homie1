@@ -53,6 +53,18 @@ margin-top: 15px;
     padding: 20px;
     
 }
+
+.footer {
+    position: fixed;
+    left: 230px;
+    bottom: 0px;
+    width: 1650px;
+    height: 100px;
+    background-color: grey;
+    color: ghostwhite;
+    text-align: start;
+    border-radius: 10px;
+  }
 /* Navigation */
 .sidebar {
 
